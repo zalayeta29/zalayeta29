@@ -1,9 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ZalayetA29&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
 # 👋 Hi, I'm ZalayetA29
 
 ### 💻 Student | 🚀 Future Developer | 🎨 Creator
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Student+%7C+Future+Developer;Learning+Git+%26+GitHub;Building+Something+Every+Day;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Future+Developer+in+Progress;Code.+Create.+Repeat.">
 
 </div>
