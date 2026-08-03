@@ -53,7 +53,22 @@
 ---
 
 ## 🎯 Currently Learning
+---
 
+## 🚀 Currently Building
+
+<div align="center">
+
+### 💻 My GitHub Journey
+
+> Learning • Creating • Improving
+
+🌱 Learning new technologies  
+⚡ Building my first projects  
+🎯 Improving my coding skills  
+🔥 Staying consistent
+
+</div>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zalayeta29/zalayeta29/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
