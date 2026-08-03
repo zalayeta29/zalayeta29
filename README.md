@@ -54,8 +54,8 @@
 
 ## 🎯 Currently Learning
 
-```text
-Web Development     ███████░░░ 70%
-Git & GitHub        ████████░░ 80%
-Programming         ██████░░░░ 60%
-Creative Projects   ███████░░░ 70%
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zalayeta29/zalayeta29/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
